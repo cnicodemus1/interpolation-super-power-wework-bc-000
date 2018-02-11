@@ -10,3 +10,5 @@ def print_business_card(person)
   puts "Contact: #{person[3]}"
   end
   
+  print_business_card(bob)
+  print_business_card(stefani)
